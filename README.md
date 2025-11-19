@@ -1,6 +1,6 @@
-Varda: AI-Powered Financial Risk Lab
+Varda: Financial Risk Lab
 
-Varda is an AI-powered financial risk lab that uses physics-inspired models,
+Varda is a financial risk lab that uses physics-inspired models,
 Monte Carlo simulation, and network analytics to visualize how credit and
 systemic risk propagate through real-world relationships.
 
