@@ -1,16 +1,14 @@
-## Hi there 👋
+Varda: AI-Powered Financial Risk Lab
 
-<!--
-**fmparces/fmparces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Varda is an AI-powered financial risk lab that uses physics-inspired models,
+Monte Carlo simulation, and network analytics to visualize how credit and
+systemic risk propagate through real-world relationships.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Capabilities:
+- Fluid dynamics metaphors and network models for risk propagation
+- Monte Carlo simulations for scenario analysis
+- Markov chain models for state transitions (credit ratings, risk states)
+- AI predictors for risk forecasting
+- Credit and systemic risk analytics
+- Network-based visualization of risk flow across relationships
+  (borrowers, lenders, suppliers, etc.)
